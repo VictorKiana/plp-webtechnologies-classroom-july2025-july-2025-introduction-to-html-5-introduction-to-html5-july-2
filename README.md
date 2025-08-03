@@ -20,6 +20,31 @@ For SEO, emphasize the use of heading tags in the correct order, provide descrip
 
 A single HTML file named `index.html`. It should include:
 
+## Assignment
+[Uploading index.html…]()<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>HTML Assignment</title>
+
+    </head>
+    <body>
+        <h1>Victor's Website</h1>
+        <p>This is the first week's assignment</p>
+        <h2>Fisrt week's content</h2>
+        <ol>
+            <li>What is Web Development?</li>
+            <li>Purpose of HTML in Web Development</li>
+            <li>HTML5</li>
+            <li>Accessibility and SEO Basics</li>
+        </ol>
+        <h2>A picture of a shark</h2>
+        <img src="shark.jpg" alt="image of shark" width="300" height="200">
+    </body>
+</html>
+
+
+
 * A semantic structure using appropriate HTML5 elements.
 * Clear headings in a logical hierarchy.
 * Accessibility enhancements using proper tags and attributes.
